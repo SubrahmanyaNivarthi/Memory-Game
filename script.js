@@ -1,3 +1,5 @@
+//This is the code written by SubrahmanyaNivarthi
+
 const cardsArray = ['🍇','🍈','🍉','🍊','🍋','🍋‍🟩','🍎','🍍'];
 let gameBoard = document.getElementById('game-board');
 let movesDisplay = document.getElementById('moves');
